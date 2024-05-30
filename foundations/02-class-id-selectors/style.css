@@ -1,0 +1,19 @@
+.n1,
+.n3,
+.n5
+{
+    background-color: rgb(239, 151, 151);
+}
+
+#n2{
+    color: blue;
+    font-size: 36px;
+}
+#n4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+.n3{
+    font-size: 24px;
+}
